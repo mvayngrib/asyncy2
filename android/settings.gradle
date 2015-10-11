@@ -1,0 +1,3 @@
+rootProject.name = 'asyncy2'
+
+include ':app'
